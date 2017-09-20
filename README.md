@@ -2,15 +2,17 @@
 
 ## 技术：
 
-1、《JavaScript语言精粹》 By:Douglas Crockford  2017.8.19
+1、《JavaScript设计模式与开发实践》 By:  2017.9.19
 
-2、《架构师》 By:InfoQ中文站  2017.6
+2、《JavaScript语言精粹》 By:Douglas Crockford  2017.8.19
 
-3、《锋利的jQuery》 By:单东林、张晓菲、魏然   2016.5.27
+3、《架构师》 By:InfoQ中文站  2017.6
 
-4、《JavaScript DOM编程艺术》 By:Jeremy Keith ..   2016.5
+4、《锋利的jQuery》 By:单东林、张晓菲、魏然   2016.5.27
 
-5、《精通CSS 高级Web标准解决方案》（第2版） By:Andy Budd ..  2016.5.27
+5、《JavaScript DOM编程艺术》 By:Jeremy Keith ..   2016.5
+
+6、《精通CSS 高级Web标准解决方案》（第2版） By:Andy Budd ..  2016.5.27
 
 
 ## 理财：
