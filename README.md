@@ -2,19 +2,21 @@
 
 ## 技术：
 
-1、《图解HTTP》 By:上野宣  2017.10.09
+1、《你不知道的JavaScript》（上卷）　By:Kyle Simpson  2017.11.11
 
-2、《JavaScript设计模式与开发实践》 By:  2017.9.19
+2、《图解HTTP》 By:上野宣  2017.10.09
 
-3、《JavaScript语言精粹》 By:Douglas Crockford  2017.8.19
+3、《JavaScript设计模式与开发实践》 By:  2017.9.19
 
-4、《架构师》 By:InfoQ中文站  2017.6
+4、《JavaScript语言精粹》 By:Douglas Crockford  2017.8.19
 
-5、《锋利的jQuery》 By:单东林、张晓菲、魏然   2016.5.27
+5、《架构师》 By:InfoQ中文站  2017.6
 
-6、《JavaScript DOM编程艺术》 By:Jeremy Keith ..   2016.5
+6、《锋利的jQuery》 By:单东林、张晓菲、魏然   2016.5.27
 
-7、《精通CSS 高级Web标准解决方案》（第2版） By:Andy Budd ..  2016.5.27
+7、《JavaScript DOM编程艺术》 By:Jeremy Keith ..   2016.5
+
+8、《精通CSS 高级Web标准解决方案》（第2版） By:Andy Budd ..  2016.5.27
 
 
 ## 理财：
@@ -28,6 +30,8 @@
 
 ## 其他：
 
-１、《简单的逻辑学》　By:D.Q.麦克伦尼   2017.10.5
+1、《影响力》　By:罗伯特.西奥迪尼　　2017.11.09
 
-2、 《影响力》　By:罗伯特.西奥迪尼　　2017.11.09
+2、《简单的逻辑学》　By:D.Q.麦克伦尼   2017.10.5
+
+
