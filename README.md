@@ -2,6 +2,8 @@
 
 ## 技术：
 
+1、《React Native：用JavaScript开发移动应用》 By:Truong Hoang Dung（张皇容）著；奇舞团 译  2017.12.14
+
 1、《ECMAScript 6 入门》 By:阮一峰  2017.12.08
 
 2、《你不知道的JavaScript》（上卷）　By:Kyle Simpson  2017.11.11
