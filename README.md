@@ -2,27 +2,29 @@
 
 ## 技术：
 
-1、《你不知道的JavaScript》（中卷）　By:Kyle Simpson  2018.1
+1、《JavaScript高级程序设计》x2　By: [美] 尼古拉斯·泽卡斯   2018.6.29
 
-2、《React Native：用JavaScript开发移动应用》 By:Truong Hoang Dung（张皇容）著；奇舞团 译  2017.12.14
+2、《你不知道的JavaScript》（中卷）　By:Kyle Simpson  2018.1
 
-3、《ECMAScript 6 入门》 By:阮一峰  2017.12.08
+3、《React Native：用JavaScript开发移动应用》 By:Truong Hoang Dung（张皇容）著；奇舞团 译  2017.12.14
 
-4、《你不知道的JavaScript》（上卷）　By:Kyle Simpson  2017.11.11
+4、《ECMAScript 6 入门》 By:阮一峰  2017.12.08
 
-5、《图解HTTP》 By:上野宣  2017.10.09
+5、《你不知道的JavaScript》（上卷）　By:Kyle Simpson  2017.11.11
 
-6、《JavaScript设计模式与开发实践》 By:  2017.9.19
+6、《图解HTTP》 By:上野宣  2017.10.09
 
-7、《JavaScript语言精粹》 By:Douglas Crockford  2017.8.19
+7、《JavaScript设计模式与开发实践》 By:  2017.9.19
 
-8、《架构师》 By:InfoQ中文站  2017.6
+8、《JavaScript语言精粹》 By:Douglas Crockford  2017.8.19
 
-9、《锋利的jQuery》 By:单东林、张晓菲、魏然   2016.5.27
+9、《架构师》 By:InfoQ中文站  2017.6
 
-10、《JavaScript DOM编程艺术》 By:Jeremy Keith ..   2016.5
+10、《锋利的jQuery》 By:单东林、张晓菲、魏然   2016.5.27
 
-11、《精通CSS 高级Web标准解决方案》（第2版） By:Andy Budd ..  2016.5.27
+11、《JavaScript DOM编程艺术》 By:Jeremy Keith ..   2016.5
+
+12、《精通CSS 高级Web标准解决方案》（第2版） By:Andy Budd ..  2016.5.27
 
 
 ## 理财：
