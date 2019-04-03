@@ -2,31 +2,33 @@
 
 ## 技术：
 
-1、《web性能权威指南》　By: Ilya Grigorik    2019.1.24
+1、《Fastify中文文档》　By: github    2019.4.3
 
-2、《JavaScript高级程序设计》x2　By: [美] 尼古拉斯·泽卡斯   2018.6.29
+2、《web性能权威指南》　By: Ilya Grigorik    2019.1.24
 
-3、《你不知道的JavaScript》（中卷）　By:Kyle Simpson  2018.1
+3、《JavaScript高级程序设计》x2　By: [美] 尼古拉斯·泽卡斯   2018.6.29
 
-4、《React Native：用JavaScript开发移动应用》 By:Truong Hoang Dung（张皇容）著；奇舞团 译  2017.12.14
+4、《你不知道的JavaScript》（中卷）　By:Kyle Simpson  2018.1
 
-5、《ECMAScript 6 入门》 By:阮一峰  2017.12.08
+5、《React Native：用JavaScript开发移动应用》 By:Truong Hoang Dung（张皇容）著；奇舞团 译  2017.12.14
 
-6、《你不知道的JavaScript》（上卷）　By:Kyle Simpson  2017.11.11
+6、《ECMAScript 6 入门》 By:阮一峰  2017.12.08
 
-7、《图解HTTP》 By:上野宣  2017.10.09
+7、《你不知道的JavaScript》（上卷）　By:Kyle Simpson  2017.11.11
 
-8、《JavaScript设计模式与开发实践》 By:  2017.9.19
+8、《图解HTTP》 By:上野宣  2017.10.09
 
-9、《JavaScript语言精粹》 By:Douglas Crockford  2017.8.19
+9、《JavaScript设计模式与开发实践》 By:  2017.9.19
 
-10、《架构师》 By:InfoQ中文站  2017.6
+10、《JavaScript语言精粹》 By:Douglas Crockford  2017.8.19
 
-11、《锋利的jQuery》 By:单东林、张晓菲、魏然   2016.5.27
+11、《架构师》 By:InfoQ中文站  2017.6
 
-12、《JavaScript DOM编程艺术》 By:Jeremy Keith ..   2016.5
+12、《锋利的jQuery》 By:单东林、张晓菲、魏然   2016.5.27
 
-13、《精通CSS 高级Web标准解决方案》（第2版） By:Andy Budd ..  2016.5.27
+13、《JavaScript DOM编程艺术》 By:Jeremy Keith ..   2016.5
+
+14、《精通CSS 高级Web标准解决方案》（第2版） By:Andy Budd ..  2016.5.27
 
 
 ## 理财：
