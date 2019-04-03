@@ -2,44 +2,44 @@
 
 ## 技术：
 
-1、《Fastify中文文档》　By: github    2019.4.3
+1、《Fastify中文文档》　By: [github](https://github.com/fastify/docs-chinese/blob/master/README.md)　　2019.4.3
 
-2、《web性能权威指南》　By: Ilya Grigorik    2019.1.24
+2、《web性能权威指南》　By: Ilya Grigorik　　2019.1.24
 
-3、《JavaScript高级程序设计》x2　By: [美] 尼古拉斯·泽卡斯   2018.6.29
+3、《JavaScript高级程序设计》x2　By: [美] 尼古拉斯·泽卡斯　　2018.6.29
 
-4、《你不知道的JavaScript》（中卷）　By:Kyle Simpson  2018.1
+4、《你不知道的JavaScript》（中卷）　　By:Kyle Simpson  2018.1
 
-5、《React Native：用JavaScript开发移动应用》 By:Truong Hoang Dung（张皇容）著；奇舞团 译  2017.12.14
+5、《React Native：用JavaScript开发移动应用》 By:Truong Hoang Dung（张皇容）著；奇舞团 译　　2017.12.14
 
-6、《ECMAScript 6 入门》 By:阮一峰  2017.12.08
+6、《ECMAScript 6 入门》 By:阮一峰　　2017.12.08
 
-7、《你不知道的JavaScript》（上卷）　By:Kyle Simpson  2017.11.11
+7、《你不知道的JavaScript》（上卷）　By:Kyle Simpson　　2017.11.11
 
-8、《图解HTTP》 By:上野宣  2017.10.09
+8、《图解HTTP》 By:上野宣　　2017.10.09
 
-9、《JavaScript设计模式与开发实践》 By:  2017.9.19
+9、《JavaScript设计模式与开发实践》 By:　　2017.9.19
 
-10、《JavaScript语言精粹》 By:Douglas Crockford  2017.8.19
+10、《JavaScript语言精粹》 By:Douglas Crockford　　2017.8.19
 
-11、《架构师》 By:InfoQ中文站  2017.6
+11、《架构师》 By:InfoQ中文站　　2017.6
 
-12、《锋利的jQuery》 By:单东林、张晓菲、魏然   2016.5.27
+12、《锋利的jQuery》 By:单东林、张晓菲、魏然　　2016.5.27
 
-13、《JavaScript DOM编程艺术》 By:Jeremy Keith ..   2016.5
+13、《JavaScript DOM编程艺术》 By:Jeremy Keith ..　　2016.5
 
-14、《精通CSS 高级Web标准解决方案》（第2版） By:Andy Budd ..  2016.5.27
+14、《精通CSS 高级Web标准解决方案》（第2版） By:Andy Budd ..　　2016.5.27
 
 
 ## 理财：
 
 1、《穷查理宝典》　By:彼得.考夫曼　　2017.12.11
 
-2、《富爸爸穷爸爸》 By:罗伯特.清崎   2017.8.5
+2、《富爸爸穷爸爸》 By:罗伯特.清崎　　2017.8.5
 
-3、《她理财 基金定投，怎么办？》 By:她理财网   2017.8
+3、《她理财 基金定投，怎么办？》 By:她理财网　　2017.8
 
-4、《跟钱钱学理财》 By:水湄物语   2017.7.16
+4、《跟钱钱学理财》 By:水湄物语　　2017.7.16
 
 
 ## 其他：
